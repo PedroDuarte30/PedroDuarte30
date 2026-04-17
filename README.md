@@ -39,23 +39,13 @@ A weather forecast application that consumes real-time data from an external API
 My digital space where I showcase my work, skills, and professional journey. Fully responsive and optimized.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ### 🤝 Let's connect!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/pedroduarte31/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:info.pedroduarte@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
