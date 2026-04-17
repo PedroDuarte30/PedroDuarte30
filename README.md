@@ -11,7 +11,7 @@ I am passionate about transforming designs into interactive and accessible digit
 - 🔭 Currently working on my **Personal Portfolio**
 - 🌱 Deepening my knowledge in **Modern JavaScript (ES6+)**
 - 💬 Ask me about **HTML, CSS, and Landing Page structure**
-- 📫 How to reach me: [Your LinkedIn](https://linkedin.com/in/your-username) or [Your Email](mailto:your-email@example.com)
+
 
 ---
 
