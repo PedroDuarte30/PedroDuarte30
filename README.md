@@ -1,21 +1,21 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Hi, I'm Pedro Duarte! 👋
 
-### 👨‍💻 Desenvolvedor Front-End
+### 👨‍💻 Front-End Developer
 
-Sou apaixonado por transformar designs em experiências digitais interativas e acessíveis. Meu foco é criar interfaces fluidas, responsivas e otimizadas para o usuário, utilizando as melhores práticas de desenvolvimento web.
-
----
-
-### 🚀 Sobre Mim
-
-- 🔭 Atualmente trabalhando no meu **Portfólio Pessoal**
-- 🌱 Aprofundando conhecimentos em **JavaScript Moderno (ES6+)**
-- 💬 Pergunte-me sobre **HTML, CSS e estruturação de Landing Pages**
-- 📫 Como me encontrar: [Seu LinkedIn](https://linkedin.com/in/seu-usuario) ou [Seu Email](mailto:seu-email@exemplo.com)
+I am passionate about transforming designs into interactive and accessible digital experiences. My focus is on creating fluid, responsive, and user-optimized interfaces using the best web development practices.
 
 ---
 
-### 🛠 Ferramentas e Tecnologias
+### 🚀 About Me
+
+- 🔭 Currently working on my **Personal Portfolio**
+- 🌱 Deepening my knowledge in **Modern JavaScript (ES6+)**
+- 💬 Ask me about **HTML, CSS, and Landing Page structure**
+- 📫 How to reach me: [Your LinkedIn](https://linkedin.com/in/your-username) or [Your Email](mailto:your-email@example.com)
+
+---
+
+### 🛠 Tools and Technologies
 
 <div align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,38 +27,38 @@ Sou apaixonado por transformar designs em experiências digitais interativas e a
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Featured Projects
 
-#### 🚀 [Landing Pages Profissionais](https://bright-green-phi.vercel.app/)
-Uma coleção de páginas de conversão focadas em performance e design responsivo, utilizando HTML semântico e CSS avançado.
+#### 🚀 [Professional Landing Pages](https://bright-green-phi.vercel.app/)
+A collection of conversion pages focused on performance and responsive design, using semantic HTML and advanced CSS.
 
 #### ☁️ [Weather App](https://weather-app-five-ochre-95.vercel.app/)
-Aplicativo de previsão do tempo que consome dados de uma API externa em tempo real, demonstrando manipulação de DOM e Fetch API com JavaScript.
+A weather forecast application that consumes real-time data from an external API, demonstrating DOM manipulation and Fetch API with JavaScript.
 
-#### 🎨 [Portfólio Pessoal](https://pedroduarte-portfolio.vercel.app/)
-O meu espaço digital onde exponho meus trabalhos, habilidades e trajetória profissional. Totalmente responsivo e otimizado.
+#### 🎨 [Personal Portfolio](https://pedroduarte-portfolio.vercel.app/)
+My digital space where I showcase my work, skills, and professional journey. Fully responsive and optimized.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🤝 Let's connect!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
-<p align="center">Feito com ❤️ por [Seu Nome]</p>
+<p align="center">Made by Pedro Duarte</p>
