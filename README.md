@@ -50,9 +50,7 @@ My digital space where I showcase my work, skills, and professional journey. Ful
   </a>
 </div>
 
-## Snake 🐍
-
-![snake gif](https://github.com/PedroDuarte30/blob/output/github-contribution-grid-snake.svg)
+![snake gif](![snake gif](https://raw.githubusercontent.com/PedroDuarte30/PedroDuarte30/output/github-contribution-grid-snake.svg))
 
 ---
 <p align="center">Made by Pedro Duarte</p>
